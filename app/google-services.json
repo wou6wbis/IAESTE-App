@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558687215837",
+    "firebase_url": "https://iaeste-f9054.firebaseio.com",
+    "project_id": "iaeste-f9054",
+    "storage_bucket": "iaeste-f9054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558687215837:android:4eb9d04e3a9ce5fb",
+        "android_client_info": {
+          "package_name": "com.example.v3rlu.iaeste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558687215837-918kpdag1s91gofjd6hj6ugh6ahav1og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.v3rlu.iaeste",
+            "certificate_hash": "e48edae4f087a06d81ca1fffe64c47ef22992f78"
+          }
+        },
+        {
+          "client_id": "558687215837-g1gh0vs7c88hh3r1q80ec1fiholfv0sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9FJYbIvopSybYwLvaJEqh4Rg48A77kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558687215837-g1gh0vs7c88hh3r1q80ec1fiholfv0sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
